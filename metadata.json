@@ -1,0 +1,6 @@
+{
+  "name": "Hyderabad Recruiting & AI Evaluation Suite",
+  "description": "An interactive evaluation desk to source, screen, and prepare interview criteria for Accounts MIS Executives and Full-stack AI Developers in Hyderabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
